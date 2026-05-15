@@ -1,0 +1,7 @@
+[main]
+DISPLAY_NAME = "Ticket All"
+MAIN = "main.py"
+VERSION = "latest"
+
+[web]
+START = "python main.py"
